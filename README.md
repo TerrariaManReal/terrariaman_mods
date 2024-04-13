@@ -1,2 +1,2 @@
 # terrariaman_mods
-Non Forums downloads for my mods
+Non-forum users can download my mods here, under the releases tab.
